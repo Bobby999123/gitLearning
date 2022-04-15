@@ -1,4 +1,4 @@
 gitcommand.txt            --> to ignore that particular file
-/node_mudolus             --> ignore all file in that particular folder_name
+/node_modules             --> ignore all file in that particular folder_name
 *.txt                     --> ignore all files having extension .txt
 !lib.txt                  --> not lib.txt file 
