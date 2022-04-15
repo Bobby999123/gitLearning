@@ -8,3 +8,6 @@ ls                                         --> to see the working directory file
 ls -a                                      --> to see the .git file which is hidden
 
 
+git remote add origin https://github.com/Bobby999123/gitLearning.git
+git branch -M main
+git push -u origin main
