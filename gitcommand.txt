@@ -7,6 +7,7 @@ git commit
 ls                                         --> to see the working directory files
 ls -a                                      --> to see the .git file which is hidden
 
+// this is to upload it remotely
 
 git remote add origin https://github.com/Bobby999123/gitLearning.git
 git branch -M main
